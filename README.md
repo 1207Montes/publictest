@@ -1,3 +1,6 @@
+*delete all maps history photo and video delete
+*shutdown map business
+
 # Devops junior test README. 
 
 Position status: CLOSED
