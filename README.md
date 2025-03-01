@@ -1,3 +1,7 @@
+*(private)
+*(my husband depression)*
+
+
 # Devops junior test README. 
 
 Position status: CLOSED
